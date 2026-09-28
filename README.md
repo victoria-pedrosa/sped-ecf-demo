@@ -1,4 +1,4 @@
-# Sped Ecf
+# Sped Ecf x
 
 > Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
 
